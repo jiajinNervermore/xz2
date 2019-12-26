@@ -4,4 +4,5 @@
 1. 初始化:git init
 2.查看状态：git status
 3.暂存：git add .(或者填写文件名)；
+4.从暂存区删除：git rm --cached 文件名
 	
