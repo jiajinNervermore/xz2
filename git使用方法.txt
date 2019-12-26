@@ -1,0 +1,7 @@
+0.配置用户git config --global user.name "用户名"
+	  git config --global user.email "邮箱名"
+查看配置的用户：git config --list(-l也可以)
+1. 初始化:git init
+2.查看状态：git status
+3.暂存：git add .(或者填写文件名)；
+	
